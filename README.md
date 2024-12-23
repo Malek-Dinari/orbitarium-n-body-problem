@@ -55,7 +55,3 @@ Welcome to **Orbitarium**, a C++ project simulating the **N-Body Problem**. This
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-Malek Dinari, 2024
